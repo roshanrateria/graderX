@@ -1,0 +1,3 @@
+google-generativeai
+gradio==3.44.4
+plotly
